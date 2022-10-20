@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/SpaceX-APP/static/css/main.50bf3ed2.css",
+    "main.js": "/SpaceX-APP/static/js/main.fb078616.js",
+    "static/media/bck.png": "/SpaceX-APP/static/media/bck.14531db6b2f92d178a55.png",
+    "static/media/slick.svg": "/SpaceX-APP/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/SpaceX-APP/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/SpaceX-APP/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/SpaceX-APP/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/SpaceX-APP/index.html",
+    "main.50bf3ed2.css.map": "/SpaceX-APP/static/css/main.50bf3ed2.css.map",
+    "main.fb078616.js.map": "/SpaceX-APP/static/js/main.fb078616.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50bf3ed2.css",
+    "static/js/main.fb078616.js"
+  ]
+}
